@@ -2,7 +2,7 @@
 
 Did not finish but this is what I was able to come up with, I have to figure out how to get inputs as doubles instead of strings.
 
-Also could not figure out how to commit and push from git bash, I dragged my files here so I dont know if the code will be shown properly, I will also type it here:
+Also could not figure out how to commit and push from git bash, I dragged my files here so I dont know if the code will be shown properly, I will also paste it here:
 
 /** parameter for celcius to farenheit should just be a variable for celcius, and
 visa versa. They should be double since inputs can have decimals.
